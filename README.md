@@ -90,143 +90,136 @@
   </summary>
   <h3>🏊 Piscine ✅</h3>
   <p>
-    <div align="center">
-      <table>
-        <thead>
-          <tr>
-            <th>Index</th>
-            <th>Project</th>
-            <th>Description</th>
-            <th>Tech</th>
-            <th>Status</th>
-            <th>Markk</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>1</td>
-            <td>C piscine Shell 00</td>
-            <td>Introduction to shell</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" height="20"/></td>
-            <td>✅</td>
-            <td>125%</td>
-          </tr>
-          <tr>
-            <td>2</td>
-            <td><a href="https://github.com/mavellanedal/printf">FT_PRITF</a></td>
-            <td>re-implementations of the printf C function</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
-            <td>✅</td>
-            <td>100%</td>
-          </tr>
-          <tr>
-            <td>3</td>
-            <td>GET_NEXT_LINE</td>
-            <td>reading files line by line</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
-            <td>In progess</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>4</td>
-            <td>BORN_2_BE_ROOT</td>
-            <td>create a VM with Virtual Box, add configuration</td>
-            <td><img src="https://raw.githubusercontent.com/mavellanedal/virutalboxlogo/refs/heads/main/virtualbox.svg?token=GHSAT0AAAAAACYMWFXOBDFFNJX2RNMGVU7SZYOLFZQ" alt="Virtual Box Logo" height="20"/></td>
-            <td>In prgoress</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>5</td>
-            <td>PIPEX</td>
-            <td>reproduce the behavior of this bash function <br/>`cmd1 < input_file \| cdm2 > output file`</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
-            <td>❌</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>6</td>
-            <td>PUSH_SWAP</td>
-            <td>function to sort 2 stacks of numbers</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
-            <td>❌</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>5</td>
-            <td>SO_LONG</td>
-            <td>2D game</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
-            <td>❌</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>7</td>
-            <td>MINISHELL</td>
-            <td>re-implement a version of bash</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
-            <td>❌</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>8</td>
-            <td>PHILOSOPHERS</td>
-            <td>introduce the concept of multi-threading</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
-            <td>❌</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>9</td>
-            <td>CUB3D</td>
-            <td>Wolfenstein game, based on a raycasting algo !</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
-            <td>❌</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>10</td>
-            <td>NET_PRACTICE</td>
-            <td>Subnetting management</td>
-            <td>IP</td>
-            <td>❌</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>11</td>
-            <td>C++</td>
-            <td>basics of c++ 00 to 09</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="20"/></td>
-            <td>❌</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>12</td>
-            <td>INCEPTION</td>
-            <td>Setting up a wordpress server with docker-compose</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" height="20"/></td>
-            <td>❌</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>13</td>
-            <td>IRC</td>
-            <td>Basic chat application on a web page</td>
-            <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="20"/></td>
-            <td>❌</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>14</td>
-            <td>TRANSCENDENCE</td>
-            <td>Web App with the Pong game</td>
-            <td>🌐 Web</td>
-            <td>❌</td>
-            <td>-</td>
-          </tr>
-        </tbody>
-      </table>
-  </div>
-
+    <div>
+      <div align="center">
+        <h4>📓 Projects</h4>
+        <table>
+          <thead>
+            <tr>
+              <th>Index</th>
+              <th>Project</th>
+              <th>Description</th>
+              <th>Tech</th>
+              <th>Status</th>
+              <th>Markk</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>1</td>
+              <td>C piscine Shell 00</td>
+              <td>introduction to shell</td>
+              <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" height="20"/></td>
+              <td>✅</td>
+              <td>100%</td>
+            </tr>
+            <tr>
+              <td>2</td>
+              <td>C piscine Shell 01</td>
+              <td>learning how to use Shell</td>
+              <td><img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" alt="C Logo" height="20"/></td>
+              <td>✅</td>
+              <td>100%</td>
+            </tr>
+            <tr>
+              <td>3</td>
+              <td>C piscine 00</td>
+              <td>learning to use the function write</td>
+              <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
+              <td>✅</td>
+              <td>52%</td>
+            </tr>
+            <tr>
+              <td>4</td>
+              <td>C piscine 01</td>
+              <td>what are the pointers in C</td>
+               <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
+              <td>✅</td>
+              <td>100%</td>
+            </tr>
+            <tr>
+              <td>5</td>
+              <td>C piscine 02</td>
+              <td>re-implementations of basics C libraries functions</td>
+              <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
+              <td>✅</td>
+              <td>65%</td>
+            </tr>
+            <tr>
+              <td>6</td>
+              <td>C piscine 03</td>
+              <td>more re-implementations of basics C libraries functions</td>
+              <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
+              <td>✅</td>
+              <td>50%</td>
+            </tr>
+            <tr>
+              <td>7</td>
+              <td>C piscine 04</td>
+              <td>ft_strlen, ft_putstr, ft_putnbr, ft_atoi, ...</td>
+              <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
+              <td>✅</td>
+              <td>70%</td>
+            </tr>
+            <tr>
+              <td>8</td>
+              <td>C piscine 05</td>
+              <td>First interactions with operators</td>
+              <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
+              <td>✅</td>
+              <td>80%</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <div>
+        <h4>Exams</h4>
+        <div align="center">
+          <table>
+            <thead>
+              <tr>
+                <th>Circle</th>
+                <th>Exam</th>
+                <th>Description</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>1</td>
+                <td>C PISCINE</td>
+                <td>Intensive introduction to the C programming language</td>
+                <td>✔</td>
+              </tr>
+              <tr>
+                <td>2</td>
+                <td>PRINTF</td>
+                <td>Implementation of the printf function in C</td>
+                <td>✔</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>MICROSHELL</td>
+                <td>Implementation of a simplified version of a shell in C</td>
+                <td>✔</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>C++ PISCINE</td>
+                <td>Intensive introduction to the C++ programming language</td>
+                <td>not started</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>MINISERV</td>
+                <td>Development of a minimal web server in C++</td>
+                <td>not started</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+              </div>
+    </div>
   </p>
   <h3>🎓 Cursus</h3>
   <p>
@@ -271,7 +264,7 @@
             <td>4</td>
             <td>BORN_2_BE_ROOT</td>
             <td>create a VM with Virtual Box, add configuration</td>
-            <td><img src="https://raw.githubusercontent.com/mavellanedal/virutalboxlogo/refs/heads/main/virtualbox.svg?token=GHSAT0AAAAAACYMWFXOBDFFNJX2RNMGVU7SZYOLFZQ" alt="Virtual Box Logo" height="20"/></td>
+            <td><img src="https://raw.githubusercontent.com/mavellanedal/virutalboxlogo/refs/heads/main/virtualbox.svg" alt="Virtual Box Logo" height="20"/></td>
             <td>In prgoress</td>
             <td>-</td>
           </tr>
@@ -292,7 +285,7 @@
             <td>-</td>
           </tr>
           <tr>
-            <td>5</td>
+            <td>7</td>
             <td>SO_LONG</td>
             <td>2D game</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
@@ -300,7 +293,7 @@
             <td>-</td>
           </tr>
           <tr>
-            <td>7</td>
+            <td>8</td>
             <td>MINISHELL</td>
             <td>re-implement a version of bash</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
@@ -308,7 +301,7 @@
             <td>-</td>
           </tr>
           <tr>
-            <td>8</td>
+            <td>9</td>
             <td>PHILOSOPHERS</td>
             <td>introduce the concept of multi-threading</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
@@ -316,7 +309,7 @@
             <td>-</td>
           </tr>
           <tr>
-            <td>9</td>
+            <td>10</td>
             <td>CUB3D</td>
             <td>Wolfenstein game, based on a raycasting algo !</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
@@ -324,7 +317,7 @@
             <td>-</td>
           </tr>
           <tr>
-            <td>10</td>
+            <td>11</td>
             <td>NET_PRACTICE</td>
             <td>Subnetting management</td>
             <td>IP</td>
@@ -332,7 +325,7 @@
             <td>-</td>
           </tr>
           <tr>
-            <td>11</td>
+            <td>12</td>
             <td>C++</td>
             <td>basics of c++ 00 to 09</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="20"/></td>
@@ -340,7 +333,7 @@
             <td>-</td>
           </tr>
           <tr>
-            <td>12</td>
+            <td>13</td>
             <td>INCEPTION</td>
             <td>Setting up a wordpress server with docker-compose</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker Logo" height="20"/></td>
@@ -348,7 +341,7 @@
             <td>-</td>
           </tr>
           <tr>
-            <td>13</td>
+            <td>14</td>
             <td>IRC</td>
             <td>Basic chat application on a web page</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++ Logo" height="20"/></td>
@@ -356,7 +349,7 @@
             <td>-</td>
           </tr>
           <tr>
-            <td>14</td>
+            <td>15</td>
             <td>TRANSCENDENCE</td>
             <td>Web App with the Pong game</td>
             <td>🌐 Web</td>
