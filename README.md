@@ -1,13 +1,13 @@
 <h1 align="center">Hi , I'm Miquel Avellaneda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+new+Roma&size=25&pause=1000&color=blue&center=true&vCenter=true&width=600&height=100&lines=42+-+Telefonica+Barcelona+Student;Development+of+web+applitcations+Student;Always+learning+new+things;Microsystems+and+Networks+Expert" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+new+Roma&size=25&pause=1000&color=blue&center=true&vCenter=true&width=600&height=100&lines=42+-+Telefonica+Barcelona+Student;Development+of+web+applitcations+Student;Always+learning+new+things;Microsystems+and+Networks+Technicien" alt="Typing SVG" /></a>
 </p>
 
 <br>
 
 <p align="center">
-  <a href="https://intra.42.fr/user/mavellan"><img alt="Static Badge" src="https://img.shields.io/badge/Born2Code-mavellan-blue?></a>
-  <a href="https://www.linkedin.com/in/mavellaneda/"> <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&color=blue"></a>
+  <a href="https://intra.42.fr/user/mavellan"><img alt="Static Badge" src="https://img.shields.io/badge/Born2Code-blue?style=for-the-badge&logo=42&logoColor=White&color=blue"></a>
+  <a href="https://www.linkedin.com/in/mavellaneda/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&color=blue"></a>
 </p>
 
 <br>
@@ -81,7 +81,7 @@
       <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <!--<a href="#"><img alt="Vim" src="" -->
+      <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-green?logo=Vim&logoColor=black"></a>
   </p>
 </details>
 
