@@ -173,12 +173,12 @@
         </table>
       </div>
       <div>
-        <h4>Exams</h4>
         <div align="center">
+          <h4>📝 Exams</h4>
           <table>
             <thead>
               <tr>
-                <th>Circle</th>
+                <th>Index</th>
                 <th>Exam</th>
                 <th>Description</th>
                 <th>Status</th>
@@ -187,43 +187,38 @@
             <tbody>
               <tr>
                 <td>1</td>
-                <td>C PISCINE</td>
-                <td>Intensive introduction to the C programming language</td>
-                <td>✔</td>
+                <td>C Piscine Exam 00</td>
+                <td>The first exam</td>
+                <td>✅</td>
               </tr>
               <tr>
                 <td>2</td>
-                <td>PRINTF</td>
-                <td>Implementation of the printf function in C</td>
-                <td>✔</td>
+                <td>C Piscine Exam 01</td>
+                <td>The secod exam of the piscine</td>
+                <td>❌</td>
               </tr>
               <tr>
                 <td>3</td>
-                <td>MICROSHELL</td>
-                <td>Implementation of a simplified version of a shell in C</td>
-                <td>✔</td>
+                <td>C Piscine Exam 02</td>
+                <td>The third exam of the piscine</td>
+                <td>✅</td>
               </tr>
               <tr>
                 <td>4</td>
-                <td>C++ PISCINE</td>
-                <td>Intensive introduction to the C++ programming language</td>
-                <td>not started</td>
-              </tr>
-              <tr>
-                <td>5</td>
-                <td>MINISERV</td>
-                <td>Development of a minimal web server in C++</td>
-                <td>not started</td>
+                <td>C Piscine Final Exam</td>
+                <td>The final exam of the piscine</td>
+                <td>✅</td>
               </tr>
             </tbody>
           </table>
         </div>
-              </div>
+      </div>
     </div>
   </p>
   <h3>🎓 Cursus</h3>
   <p>
     <div align="center">
+      <h4>📓 Projects</h4>
       <table>
         <thead>
           <tr>
@@ -359,6 +354,51 @@
         </tbody>
       </table>
   </div>
+   <div align="center">
+          <h4>📝 Exams</h4>
+          <table>
+            <thead>
+              <tr>
+                <th>Circle</th>
+                <th>Exam</th>
+                <th>Description</th>
+                <th>Status</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>2</td>
+                <td>Exam Rank 02</td>
+                <td>The first exam</td>
+                <td>❌</td>
+              </tr>
+              <tr>
+                <td>3</td>
+                <td>Exam Rank 03</td>
+                <td>The secod exam of the piscine</td>
+                <td>❌</td>
+              </tr>
+              <tr>
+                <td>4</td>
+                <td>Exam Rank 04</td>
+                <td>The third exam of the piscine</td>
+                <td>❌</td>
+              </tr>
+              <tr>
+                <td>5</td>
+                <td>Exam Rank 05</td>
+                <td>The final exam of the piscine</td>
+                <td>❌</td>
+              </tr>
+              <tr>
+                <td>6</td>
+                <td>Exam Rank 06</td>
+                <td>The final exam of the piscine</td>
+                <td>❌</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
   </p>
 </details>
 
