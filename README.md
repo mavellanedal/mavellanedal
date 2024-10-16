@@ -86,7 +86,7 @@
 
 <details>
   <summary>
-    <h2><img alt="42 Logo SVG" src="https://raw.githubusercontent.com/mavellanedal/42Logo/refs/heads/main/42.svg" width=30 height=30> progres</h2>
+    <h2><img alt="42 Logo SVG" src="https://raw.githubusercontent.com/mavellanedal/mavellanedal/refs/heads/main/42.svg" width=30 height=30> progres</h2>
   </summary>
   <h3>🏊 Piscine ✅</h3>
   <p>
@@ -259,7 +259,7 @@
             <td>4</td>
             <td>BORN_2_BE_ROOT</td>
             <td>create a VM with Virtual Box, add configuration</td>
-            <td><img src="https://raw.githubusercontent.com/mavellanedal/virutalboxlogo/refs/heads/main/virtualbox.svg" alt="Virtual Box Logo" height="20"/></td>
+            <td><img src="https://raw.githubusercontent.com/mavellanedal/mavellanedal/refs/heads/main/virtualbox.svg" alt="Virtual Box Logo" height="20"/></td>
             <td>In prgoress</td>
             <td>-</td>
           </tr>
