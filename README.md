@@ -51,6 +51,13 @@
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+      <a href="#"><img alt="Astro" src="https://img.shields.io/badge/Astro-orange?logo=astro&logoColor=white"></a>
+  </p>
+
+  <h3>🌐 Web servers</h3>
+
+  <p>
+    <a href="#"><img alt="Nginix" src="https://img.shields.io/badge/Astro-orange?logo=astro&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -59,7 +66,6 @@
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-      <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -70,17 +76,31 @@
       <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
       <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Slack" src="https://img.shields.io/badge/Slack-4a154b?logo=slack&logoColor=white&color=%234a154b"></a>
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Photopea" src="https://img.shields.io/badge/Photopea-18A497?logo=photopea&logoColor=white"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-      <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="Vim" src="https://img.shields.io/badge/Vim-green?logo=Vim&logoColor=black"></a>
       <a href="#"><img alt="Virtual Box" src="https://img.shields.io/badge/Virtual_Box-%233361b7?logo=VirtualBox&color=%233361b7"></a>
+      <a href="#"><img alt="VMware" src="https://img.shields.io/badge/VMware-green?logo=vmware&logoColor=blue&logoSize=50"></a>
+      <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white"></a>
+      <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-purple?logo=intellijidea&logoColor=white"></a>
+  </p>
+
+  <h3⚙️ Opereting Systemsh3>
+
+  <p>
+    <a href="#"><img alt="centos" src="https://img.shields.io/badge/centos-darkblue?logo=centos&logoColor=green"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubutnu-orange?logo=ubuntu"></a>
+    <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-white?logo=debian&logoColor=red"></a>
+    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/KaliLinux-blue?logo=kalilinux&logoColor=black"></a>
+    <a href="#"><img alt="Windows" src=""></a>
+    <a href="#"><img alt="Macos" src=""></a>
   </p>
 </details>
 
