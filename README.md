@@ -280,8 +280,8 @@
             <td>BORN_2_BE_ROOT</td>
             <td>create a VM with Virtual Box, add configuration</td>
             <td><img src="https://raw.githubusercontent.com/mavellanedal/mavellanedal/refs/heads/main/virtualbox.svg" alt="Virtual Box Logo" height="20"/></td>
-            <td>In prgoress</td>
-            <td>-</td>
+            <td>✅</td>
+            <td>125%</td>
           </tr>
           <tr>
             <td>5</td>
