@@ -57,7 +57,8 @@
   <h3>🌐 Web servers</h3>
 
   <p>
-    <a href="#"><img alt="Nginix" src="https://img.shields.io/badge/Astro-orange?logo=astro&logoColor=white"></a>
+    <a href="#"><img alt="Nginix" src="https://img.shields.io/badge/Nginix-green?logo=nginix&logoColor=white"></a>
+    <a href="#"><img alt="Apache2" src="https://img.shields.io/badge/Apache2-orange?logo=apache&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -66,6 +67,7 @@
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+      <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-blue?logo=bitwarden&logoColor=white"></a>
   </p>
 
   <h3>💻 Software and Tools</h3>
@@ -92,15 +94,16 @@
       <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-purple?logo=intellijidea&logoColor=white"></a>
   </p>
 
-  <h3⚙️ Opereting Systemsh3>
+  <h3> <img src="https://raw.githubusercontent.com/mavellanedal/mavellanedal/refs/heads/main/OS.gif" heigh="35" width ="35" />Opereting Systems</h3>
 
   <p>
     <a href="#"><img alt="centos" src="https://img.shields.io/badge/centos-darkblue?logo=centos&logoColor=green"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubutnu-orange?logo=ubuntu"></a>
     <a href="#"><img alt="Debian" src="https://img.shields.io/badge/Debian-white?logo=debian&logoColor=red"></a>
     <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/KaliLinux-blue?logo=kalilinux&logoColor=black"></a>
-    <a href="#"><img alt="Windows" src=""></a>
-    <a href="#"><img alt="Macos" src=""></a>
+    <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
+    <a href="#"><img alt="Macos" src="https://img.shields.io/badge/MacOS-white?logo=Apple&logoColor=black"></a>
+    <a href="#"><img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-orange?logo=Proxmox&logoColor=black"></a>
   </p>
 </details>
 
