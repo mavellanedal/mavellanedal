@@ -275,7 +275,7 @@
             <td><a href="https://github.com/mavellanedal/get_next_line">GET_NEXT_LINE</a></td>
             <td>reading files line by line</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
-            <td>In progess</td>
+            <td>✅</td>
             <td>-</td>
           </tr>
           <tr>
