@@ -392,31 +392,31 @@
               <tr>
                 <td>2</td>
                 <td>Exam Rank 02</td>
-                <td>The first exam</td>
-                <td>❌</td>
+                <td>The first exam of the cursus</td>
+                <td>✅</td>
               </tr>
               <tr>
                 <td>3</td>
                 <td>Exam Rank 03</td>
-                <td>The secod exam of the piscine</td>
+                <td>The secod exam of the cursus</td>
                 <td>❌</td>
               </tr>
               <tr>
                 <td>4</td>
                 <td>Exam Rank 04</td>
-                <td>The third exam of the piscine</td>
+                <td>The third exam of the cursus</td>
                 <td>❌</td>
               </tr>
               <tr>
                 <td>5</td>
                 <td>Exam Rank 05</td>
-                <td>The final exam of the piscine</td>
+                <td>The final exam of the cursus</td>
                 <td>❌</td>
               </tr>
               <tr>
                 <td>6</td>
                 <td>Exam Rank 06</td>
-                <td>The final exam of the piscine</td>
+                <td>The final exam of the cursus</td>
                 <td>❌</td>
               </tr>
             </tbody>
