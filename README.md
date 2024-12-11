@@ -296,10 +296,10 @@
           </tr>
           <tr>
             <td>6</td>
-            <td>PUSH_SWAP</td>
+            <td><a href="https://github.com/mavellanedal/push_swap">PUSH_SWAP</a></td>
             <td>function to sort 2 stacks of numbers</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
-            <td>❌</td>
+            <td>In progres</td>
             <td>-</td>
           </tr>
           <tr>
