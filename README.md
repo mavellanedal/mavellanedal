@@ -304,10 +304,10 @@
           </tr>
           <tr>
             <td>7</td>
-            <td>SO_LONG</td>
+            <td><a href="https://github.com/mavellanedal/so_long42">SO_LONG</a></td>
             <td>2D game</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
-            <td>❌</td>
+            <td>In progres</td>
             <td>-</td>
           </tr>
           <tr>
