@@ -288,7 +288,7 @@
           </tr>
           <tr>
             <td>5</td>
-            <td>><a href="https://github.com/mavellanedal/42pipex">PIPEX</a></td>
+            <td><a href="https://github.com/mavellanedal/42pipex">PIPEX</a></td>
             <td>reproduce the behavior of this bash function <br/>`cmd1 < input_file \| cdm2 > output file`</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
             <td>❌</td>
