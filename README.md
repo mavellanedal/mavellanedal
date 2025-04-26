@@ -43,6 +43,9 @@
       <a href="https://github.com/search?q=user%mavellanedal+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%mavellanedal+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%mavellanedal+language%3Asvg"><img alt="XML" src="https://img.shields.io/badge/XML-e0982c.svg?logo=xml&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%mavellanedal+language%3Aangular"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%mavellanedal+language%3Anodejs"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%mavellanedal+language%3ANextjs"><img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>
   </p>
 
   <h3>🧰 Frameworks and Libraries</h3>
