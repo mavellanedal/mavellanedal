@@ -23,7 +23,6 @@
 - :student: I’m currently learning `Development of web applications` and `42 Cursus Born2Code`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [my LinkedIn](https://linkedin.com/in/mavellaneda).
-- :boom: You can visit [MY WEBSITE](https://mavellaneda.me).
 
 <details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
