@@ -313,7 +313,7 @@
           </tr>
           <tr>
             <td>8</td>
-            <td>><a href="https://github.com/mavellanedal/minishell">MINISHELL</a></td>
+            <td><a href="https://github.com/mavellanedal/minishell">MINISHELL</a></td>
             <td>re-implement a version of bash</td>
             <td><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Logo" height="20"/></td>
             <td>In Progress</td>
