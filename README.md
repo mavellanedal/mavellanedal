@@ -41,7 +41,6 @@
       <a href="https://github.com/search?q=user%mavellanedal+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/search?q=user%mavellanedal+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%mavellanedal+language%3Asvg"><img alt="XML" src="https://img.shields.io/badge/XML-e0982c.svg?logo=xml&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%mavellanedal+language%3Aangular"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
       <a href="https://github.com/search?q=user%mavellanedal+language%3Anodejs"><img alt="NodeJS" src="https://img.shields.io/badge/node.js-339933?logo=Node.js&logoColor=white"></a>
       <a href="https://github.com/search?q=user%mavellanedal+language%3ANextjs"><img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?logo=nextdotjs&logoColor=white"></a>
   </p>
@@ -53,6 +52,7 @@
       <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
       <a href="#"><img alt="Astro" src="https://img.shields.io/badge/Astro-orange?logo=astro&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%mavellanedal+language%3Aangular"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white"></a>
   </p>
 
   <h3>🌐 Web servers</h3>
